@@ -1,9 +1,9 @@
 ---
 title: Mình hạn chế việc xử lý thông tin để đỡ đau đầu như thế nào? - Phần 2
-date: "2023-05-17T22:40:32.169Z"
+date: "2023-04-04T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "/posts/humane-typography-in-the-digital-age"
+slug: "/posts/han-che-thong-tin-2"
 category: "Life Lesson"
 tags:
   - "Design"
