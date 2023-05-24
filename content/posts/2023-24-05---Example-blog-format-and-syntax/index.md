@@ -1,6 +1,6 @@
 ---
 title: "Markdown (MDX) Guide and Syntax"
-date: "2023-24-05T02:40:32.169Z"
+date: "2023-24-05T16:30:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/example"
@@ -14,10 +14,6 @@ socialImage: "./media/big_test.jpg"
 ---
 <!-- markdownlint-disable-->
 NOTE: This "post" is based on [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and is meant to test styling of Markdown generated documents.
-
-This is intended as a quick reference and showcase. For more complete info, see [John Gruber's original spec](http://daringfireball.net/projects/markdown/) and the [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/).
-
-This cheatsheet is specifically _Markdown Here's_ version of Github-flavored Markdown. This differs slightly in styling and syntax from what Github uses, so what you see below might vary a little from what you get in a _Markdown Here_ email, but it should be pretty close.
 
 You can play around with Markdown on our [live demo page](http://www.markdown-here.com/livedemo.html).
 
@@ -210,7 +206,7 @@ Reference-style:
 
 Local picture:
 
-![local picture](./images/local_test.jpeg)
+![local picture](./media/local_test.jpeg)
 
 Big picture:
 
