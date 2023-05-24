@@ -4,7 +4,7 @@ date: "2023-24-05T16:30:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/example"
-category: "Blog format"
+category: "Blog Format"
 tags:
   - "Design"
   - "Typography"
@@ -19,7 +19,56 @@ You can play around with Markdown on our [live demo page](http://www.markdown-he
 
 (If you're not a Markdown Here user, check out the [Markdown Cheatsheet](./Markdown-Cheatsheet) that is not specific to MDH. But, really, you should also use Markdown Here, because it's awesome. http://markdown-here.com)
 
+```truoc-moi-blog-phai-co-cai-nay
+---
+title: "Markdown (MDX) Guide and Syntax"
+date: "2023-24-05T16:30:32.169Z"
+template: "post"
+draft: false -- set True thi sẽ k post
+slug: "/posts/example" -- duong link tren web
+category: "Blog Format"
+tags:
+  - "Design"
+  - "Typography"
+  - "Web Development"
+description: "Van de ve suy nghi."
+socialImage: "./media/big_test.jpg"
+---
+```
+
+
 ## Table of Contents
+
+
+```tcreate-links-to-each-section
+
+
+- [Headers](#headers)
+
+- [Emphasis](#emphasis)
+
+- [Lists](#lists)
+
+- [Links](#links)
+
+- [Images](#images)
+
+- [Code and Syntax Highlighting](#code-and-syntax-highlighting)
+
+- [Tables](#tables)
+
+- [Blockquotes](#blockquotes)
+
+- [Inline HTML](#inline-html)
+
+- [Horizontal Rule](#horizontal-rule)
+
+- [Line Breaks](#line-breaks)
+
+- [YouTube Videos](#you-tube-videos)
+
+------
+```
 
 - [Headers](#headers)
 
