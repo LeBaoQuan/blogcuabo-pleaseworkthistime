@@ -1,7 +1,7 @@
 {
-  "title": "Blog by John Doe",
-  "url": "https://lumen.alxshelepenok.com",
-  "subtitle": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+  "title": "CHAY LUNG TUNG",
+  "url": "https://chaylungtung.netlify.app",
+  "subtitle": "brief description",
   "copyright": "© All rights reserved.",
   "googleAnalyticsId": "UA-73379983-2",
   "disqusShortname": "",
@@ -22,9 +22,9 @@
     }
   ],
   "author": {
-    "name": "John Doe",
-    "photo": "/photo.jpg",
-    "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "name": "Truong Hoang Huyen Minh",
+    "photo": "/chaylungtung_pfp.jpg",
+    "bio": "Profle here.",
     "contacts": {
       "rss": "",
       "email": "",

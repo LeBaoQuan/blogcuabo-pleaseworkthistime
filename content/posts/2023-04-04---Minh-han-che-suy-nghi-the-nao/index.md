@@ -1,5 +1,5 @@
 ---
-title: [Mình hạn chế việc xử lý thông tin để đỡ đau đầu như thế nào?] - Phần 2
+title: Mình hạn chế việc xử lý thông tin để đỡ đau đầu như thế nào? - Phần 2
 date: "2023-05-17T22:40:32.169Z"
 template: "post"
 draft: false
