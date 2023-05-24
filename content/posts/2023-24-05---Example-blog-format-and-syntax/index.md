@@ -9,15 +9,10 @@ tags:
   - "Design"
   - "Typography"
   - "Web Development"
-description: "Van de ve suy nghi."
+description: "Hướng dẫn cách format blog posts"
 socialImage: "./media/big_test.jpg"
 ---
 <!-- markdownlint-disable-->
-NOTE: This "post" is based on [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and is meant to test styling of Markdown generated documents.
-
-You can play around with Markdown on our [live demo page](http://www.markdown-here.com/livedemo.html).
-
-(If you're not a Markdown Here user, check out the [Markdown Cheatsheet](./Markdown-Cheatsheet) that is not specific to MDH. But, really, you should also use Markdown Here, because it's awesome. http://markdown-here.com)
 
 ```no-highlight
 ---
@@ -420,8 +415,9 @@ Cannot upload videos directly but possible to embbed videos from youtube
 <iframe 
 width="560" height="315" 
 src="https://www.youtube.com/embed/YOUR_VIDEO_ID_HERE" 
-frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 ```
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Y_9SMNeV82U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/Y_9SMNeV82U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
