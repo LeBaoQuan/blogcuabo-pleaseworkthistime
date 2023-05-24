@@ -1,83 +1,34 @@
-https://github.com/alxshelepenok/gatsby-starter-lumen
+lấy từ nguồn này https://github.com/alxshelepenok/gatsby-starter-lumen
+
 
 <h4 align="center">
   Copy template from Lumen Blog về làm blog cho bồ 
 </h4>
 
 
-## Table of contents
+# hướng dẫn cho bồ chạy web local trên máy để test 
 
-- [Features](http://github.com/alxshelepenok/gatsby-starter-lumen#features)
-- [Quick Start](http://github.com/alxshelepenok/gatsby-starter-lumen#quick-start)
-- [Folder Structure](http://github.com/alxshelepenok/gatsby-starter-lumen#folder-structure)
-- [Sponsors](http://github.com/alxshelepenok/gatsby-starter-lumen#sponsors)
-- [Contributors](http://github.com/alxshelepenok/gatsby-starter-lumen#contributors)
-- [License](http://github.com/alxshelepenok/gatsby-starter-lumen#license)
+- mở Command Prompt
+- gỡ các dòng lệnh sau, sau mỗi cái là enter
 
-## Features
-
-- Beautiful typography.
-- Mobile first approach in development.
-- Syntax highlighting in code blocks using PrismJS.
-- Pagination support.
-
-## Quick Start
-
-```
-$ npm install
-$ npm run start
-```
-
-## Folder Structure
-
-```
-.
-├── internal
-│   ├── definitions
-│   ├── gatsby
-│   │   ├── constants
-│   │   ├── queries
-│   │   ├── types
-│   │   └── utils
-│   └── testing
-│       └── __mocks__
-└── src
-    ├── assets
-    │   └── scss
-    │       ├── base
-    │       └── mixins
-    ├── components
-    │   ├── Feed
-    │   ├── Icon
-    │   ├── Image
-    │   ├── Layout
-    │   ├── Page
-    │   ├── Pagination
-    │   ├── Post
-    │   │   ├── Author
-    │   │   ├── Comments
-    │   │   ├── Content
-    │   │   ├── Meta
-    │   │   └── Tags
-    │   └── Sidebar
-    │       ├── Author
-    │       ├── Contacts
-    │       ├── Copyright
-    │       └── Menu
-    ├── constants
-    ├── hooks
-    ├── templates
-    │   ├── CategoriesTemplate
-    │   ├── CategoryTemplate
-    │   ├── IndexTemplate
-    │   ├── NotFoundTemplate
-    │   ├── PageTemplate
-    │   ├── PostTemplate
-    │   ├── TagsTemplate
-    │   └── TagTemplate
-    ├── types
-    └── utils
+```no-highlight
+d:
 ```
 
 
+```no-highlight
+cd blogcuabo-pleaseworkthistime
+```
 
+```no-highlight
+gatsby develop
+```
+- cái này có thể chạy hơi lâu xíu, sau khi xong thì vô localhost:8000 để xem web
+
+# Cách để thêm blog posts
+
+- vô thư mục d:\blogcuabo-pleaseworkthistime\content\posts
+- tạo folder mới, format giống mấy cái cũ
+- tạp folder .\media để chứa hình
+- mở ứng dụng Cursor, tạo file index.md trong folder đó rồi viết post
+- bồ cứ viết xong blog, save xong là tự động web sẽ update
