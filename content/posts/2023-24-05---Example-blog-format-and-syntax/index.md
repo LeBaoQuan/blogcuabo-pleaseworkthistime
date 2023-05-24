@@ -426,18 +426,14 @@ This line is only separated by a single newline, so it's a separate line in the 
 
 ## YouTube Videos
 
-They can't be added directly but you can add an image with a link to the video like this:
+Cannot upload videos directly but possible to embbed videos from youtube
 
 ```no-highlight
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=8AkLfYOgIrE
-" target="_blank"><img src="http://img.youtube.com/vi/8AkLfYOgIrE/0.jpg"
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<iframe 
+width="560" height="315" 
+src="https://www.youtube.com/embed/YOUR_VIDEO_ID_HERE" 
+frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```
 
-Or, in pure Markdown, but losing the image sizing and border:
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Y_9SMNeV82U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-```no-highlight
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-```
-
-`video: [VoiceBot Demo](https://www.youtube.com/watch?v=vRwp--RoJdo)`
