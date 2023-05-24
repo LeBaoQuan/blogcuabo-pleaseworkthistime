@@ -1,6 +1,6 @@
 ---
 title: "Markdown (MDX) Guide and Syntax"
-date: "2023-24-05T16:30:32.169Z"
+date: "2023-05-24T16:30:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/example"

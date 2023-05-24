@@ -1,8 +1,8 @@
 ---
 title: Nay viet ngan ngan
-date: "2023-18-05T22:40:32.169Z"
+date: "2023-05-18T22:40:32.169Z"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/nay-viet-ngan-ngan"
 category: "Life Lesson"
 tags:
