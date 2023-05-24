@@ -234,32 +234,20 @@ Some text to show that the reference links can follow later.
 ## Images
 
 ```no-highlight
-Here's our logo (hover to see the title text):
+Local picture:
 
-Inline-style:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![local picture](./media/local_test.jpeg)
 
-Reference-style:
-![alt text][logo]
+Link to online picture:
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+![big picture that applies to water or nature](https://source.unsplash.com/1600x900/?nature,water)
 ```
-
-Here's our logo (hover to see the title text):
-
-Inline-style:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style:
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 Local picture:
 
 ![local picture](./media/local_test.jpeg)
 
-Big picture:
+Link to online picture:
 
 ![big picture that applies to water or nature](https://source.unsplash.com/1600x900/?nature,water)
 
