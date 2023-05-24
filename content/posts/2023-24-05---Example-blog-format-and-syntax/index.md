@@ -19,8 +19,11 @@ You can play around with Markdown on our [live demo page](http://www.markdown-he
 
 (If you're not a Markdown Here user, check out the [Markdown Cheatsheet](./Markdown-Cheatsheet) that is not specific to MDH. But, really, you should also use Markdown Here, because it's awesome. http://markdown-here.com)
 
-```truoc-moi-blog-phai-co-cai-nay
+```no-highlight
 ---
+
+Trước mỗi Blog Post phải có phần này
+
 title: "Markdown (MDX) Guide and Syntax"
 date: "2023-24-05T16:30:32.169Z"
 template: "post"
@@ -40,8 +43,7 @@ socialImage: "./media/big_test.jpg"
 ## Table of Contents
 
 
-```tcreate-links-to-each-section
-
+```no-highlight
 
 - [Headers](#headers)
 
