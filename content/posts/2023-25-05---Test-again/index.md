@@ -6,14 +6,14 @@ draft: false
 slug: "/posts/mot-ngay-dep-troi"
 category: "Blog Format"
 tags:
-  - "Lifestyle"
+  - "Tình yêu"
   - "Le Bao Quan"
-  - "New door"
+  - "Trương Hoàng Huyền Minh"
 description: "Tôi ý đồ với Lê Bảo Quân nhiều nhiều"
 socialImage: "./media/big_test.jpg"
 ---
 ![](./media/Presentation1.png)
-# Lê Bảo Quân
+# Lê Bảo Quân x Trương Hoàng Huyền Minh
 ## Table of content
 
 + [Lê Bảo Quân](#lê-bảo-quân)
