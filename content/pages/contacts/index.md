@@ -1,14 +1,12 @@
 ---
-title: "Why I created this blog (Sự tích ra đời của em Blog Chạy Lung Tung)"
+title: "Why I created this blog - Sự tích ra đời của em Blog Chạy Lung Tung"
 template: "page"
 socialImage: "./book.jpg"
 ---
 
-business email: 
-
-brief description about my achievements and skillsets
-
 ![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/book.jpg)
+
+# Sự tích ra đời của em nó
 
 _Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi._
 

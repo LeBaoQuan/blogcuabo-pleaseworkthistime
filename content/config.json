@@ -13,11 +13,11 @@
       "path": "/"
     },
     {
-      "label": "About me",
+      "label": "About Me",
       "path": "/pages/about"
     },
     {
-      "label": "Why I write blog",
+      "label": "About This Blog",
       "path": "/pages/contacts"
     }
   ],
