@@ -1,5 +1,5 @@
 ---
-title: soi gương và chữa lành
+title: Soi gương và chữa lành
 date: "2022-04-04T23:46:37.121Z"
 template: "post"
 draft: false

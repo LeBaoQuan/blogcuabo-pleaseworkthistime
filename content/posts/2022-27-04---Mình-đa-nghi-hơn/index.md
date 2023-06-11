@@ -8,7 +8,7 @@ category: "Thinking"
 tags:
   - "Reflection"
 description: "Dù câu trả lời là có hay không, vui là được!"
-socialImage: "./media/notebook.jpg"
+socialImage: "./media/blog3.jpg"
 ---
 Mình hay quan sát. Mình thích nhìn cảnh gia đình sinh hoạt (đặc biệt là cảnh mọi người cùng xem TV), cảnh núi đá vôi với mấy cục đá to đùng nhìn như sắp rớt, cảnh sóng biển đập vô bờ và cả biển hiệu cửa hàng nữa. Mình thích xem cảnh mấy cô, mấy chú lao động, thích xem mấy em đạp xe đi học về, nói chung là thích xem những thứ diễn ra trên khắp nẻo đường mình đi qua. Quan sát đôi khi chỉ đơn thuần là quan sát, chỉ để thỏa mãn sự hiếu kỳ và niềm đam mê đi chơi quá nhiều của mình, nhưng đôi khi nó cũng khiến mình đặt nhiều câu hỏi: Tại sao bầu trời có màu xanh hả anh? À không không, câu này mình biết đáp án rồi. “Tại sao người ta lại ở đó? Tại sao người ta phải làm vậy? Tại sao người ta không thoát ra được cái vòng luẩn quẩn đó?” Còn những câu này, mình không biết và cũng không biết khi nào mình sẽ biết.
 

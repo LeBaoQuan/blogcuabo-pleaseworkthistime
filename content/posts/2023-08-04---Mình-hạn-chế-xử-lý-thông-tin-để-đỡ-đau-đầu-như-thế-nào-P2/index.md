@@ -9,7 +9,7 @@ tags:
   - "Reflection"
   - "Social media"
 description: " Mình cần việc suy nghĩ. Khi càng ngày càng có nhiều content creator, họ làm nội dung chia sẻ quan điểm, kiến thức về những vấn đề trong cuộc sống. Bằng cách đó họ có thể lấy đi 1 phần “công việc” suy nghĩ của mình. Họ suy nghĩ giúp mình, họ làm content và việc của mình là tiêu thụ những content trên, để rồi mình cũng có những kết luận hay nhưng lại không cần phải suy nghĩ nhiều."
-socialImage: "./media/notebook.jpg"
+socialImage: "./media/blog10-1.jpg"
 ---
 # Table of contents
 + [Hiểu mình](#1-hiểu-mình)

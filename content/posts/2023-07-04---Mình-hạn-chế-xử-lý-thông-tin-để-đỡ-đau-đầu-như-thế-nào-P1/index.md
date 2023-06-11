@@ -9,7 +9,7 @@ tags:
   - "Reflection"
   - "Social media"
 description: "Trong thế giới thông tin, mình dễ dàng bị điều hướng bởi thông tin. Nếu như mình không thể tách mình khỏi tập thể, nếu như mình không thể không bị ảnh hưởng bởi môi trường, mình sẽ biến những ảnh hưởng đó áp lên mình theo cách của mình."
-socialImage: ""
+socialImage: "./media/blog9-1.jpg"
 ---
 Đặt tiêu đề này xong tự nhiên mình thấy buồn cười. Cấu trúc “Mình + (Động từ) + Thành tựu + như thế nào?” đã trở nên quá quen thuộc trên mạng xã hội. Khi “thành tựu” là điều nhiều người mơ ước hay đơn giản là thứ người ta tò mò muốn biết về, tiêu đề theo cấu trúc kể trên quả là một cái hố đen hút người. Mình không có ý chỉ trích vì nó cũng chỉ tuân theo quy luật cung cầu - người sáng tạo nội dung và người tìm kiếm “làm thế nào để…?”. Lý do mình buồn cười ở trên là vì mình chưa bao giờ đặt tiêu đề như vậy và thành tựu “đỡ đau đầu” của mình có lẽ cũng không phải là thứ nhiều người tìm kiếm. Đơn giản là một bài viết chia sẻ ý kiến cá nhân!
 

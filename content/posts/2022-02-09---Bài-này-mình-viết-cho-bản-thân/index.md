@@ -1,5 +1,5 @@
 ---
-title: bài này mình viết cho bản thân
+title: Bài này mình viết cho bản thân
 date: "2022-09-02T23:46:37.121Z"
 template: "post"
 draft: false

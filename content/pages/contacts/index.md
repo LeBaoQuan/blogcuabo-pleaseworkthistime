@@ -1,5 +1,5 @@
 ---
-title: "Business enqiuries"
+title: "Why I created this blog (Sự tích ra đời của em Blog Chạy Lung Tung)"
 template: "page"
 socialImage: "./book.jpg"
 ---

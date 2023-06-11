@@ -1,5 +1,5 @@
 ---
-title: một trong những lần đầu đi thi
+title: Một trong những lần đầu đi thi
 date: "2022-05-07T23:46:37.121Z"
 template: "post"
 draft: false

@@ -1,13 +1,13 @@
 ---
 title: mượn chuyện của những mùa hè
-date: "2022-13-02T23:46:37.121Z"
+date: "2022-02-13T23:46:37.121Z"
 template: "post"
 draft: false
-slug: "/posts/mượn-chuyện-những-mùa-hè"
-category: "Design Inspiration"
+slug: "/posts/mượn-chuyện-của-những-mùa-hè"
+category: "Thinking"
 tags:
-  - "Học và chơi"
-  - "Định nghĩa cá nhân"
+  - "Reflection"
+  - "Learning"
 description: "Chấp nhận cái riêng, làm theo cái riêng, làm theo điều mà bạn cho là đúng và không ảnh hưởng xấu tới người khác có lẽ mới là điều đúng nhất trên đời."
 socialImage: "./media/notebook.jpg"
 ---

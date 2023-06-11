@@ -9,7 +9,7 @@ tags:
   - "Reflection"
   - "Spread the happiness"
 description: "Công sức, tình cảm của bạn chính là thứ tạo nên niềm vui của chính bạn, đừng mong chờ niềm vui sẽ đến từ ngoại cảnh, cũng đừng để ngoại cảnh hay ti tỉ lý do bạn tự vẽ ra trong đầu cản trở bạn. Tìm cho mình một lý do để làm là được rồi, với mình chính là: thỏa mãn ham muốn trải nghiệm và lấp đầy sự ham vui của bản thân."
-socialImage: "./media/notebook.jpg"
+socialImage: "./media/blog6-1.jpg"
 ---
 Vì thích quá nên mình quyết định viết một bài về câu chuyện đi tặng cơm với túi và hộp giấy.
 Mình vừa tham gia A Love Trip mùa 2, chương trình thiện nguyện tặng cơm cho người vô gia cư và người lao động nghèo. Đây là lần thứ 2 mình tham gia hoạt động từ thiện ở Sài Gòn một cách trực tiếp - trao quà và trao niềm vui tận tay, nếu không kể đến GIVE IT BACK thân yêu của mình. 
