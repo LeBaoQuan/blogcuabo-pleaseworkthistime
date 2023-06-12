@@ -1,14 +1,9 @@
 ---
-title: "About me - Mot con canh cut nho"
+title: "About me - Một con cánh cụt nhỏ"
 template: "page"
 socialImage: "./notebook.jpg"
 ---
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/notebook.jpg)
+![](./media/About.jpg)
 
-Tự giới thiệu bản thân, cho cái hình đẹp đẹp vô :3 
-
-
-_Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi._
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Từ năm 19 tuổi, mình bắt đầu cuộc hành trình đi tìm thử thách. Đau khổ và lớn lên cùng những thử thách, song song với đó, mình đi tìm chính mình. Mình nhận ra, bản thân không hề bất biến. Mình đã hết vô tư hồn nhiên theo cái định nghĩa mình từng sử dụng hồi học phổ thông, mình ít ham chơi hơn, dành thời gian suy nghĩ nhiều hơn và trở nên ít thân thiết với những người bạn từng thân thiết. Mình hiểu tại sao những điều đó xảy đến với mình và chấp nhận chúng như cách mình chấp nhận sự quằn quại khi đối diện với thử thách. Mình cố gắng tách bản thân làm đôi, dùng bản thể thứ 2 đó quan sát chính mình, để mình luôn biết được "Mình là ai".
