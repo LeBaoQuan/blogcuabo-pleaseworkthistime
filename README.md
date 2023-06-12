@@ -39,3 +39,6 @@ Sau khi viết xong blog mới và đã save
 > git push origin master
 
 rồi chờ ~5 phút, check website xem có update chưa
+
+
+
