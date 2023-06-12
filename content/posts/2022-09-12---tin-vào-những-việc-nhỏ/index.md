@@ -4,7 +4,7 @@ date: "2022-12-09T23:46:37.121Z"
 template: "post"
 draft: false
 slug: "/posts/tin-vào-những-việc-nhỏ"
-category: "Thinking"
+category: "Suy Ngẫm"
 tags:
   - "Reflection"
   - "Spread the happiness"

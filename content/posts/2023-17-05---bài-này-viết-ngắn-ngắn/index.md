@@ -4,10 +4,11 @@ date: "2023-05-17T23:46:37.121Z"
 template: "post"
 draft: false
 slug: "/posts/bài-này-viết-ngắn-ngắn"
-category: "Bout"
+category: "For myself"
 tags:
   - "Reflection"
   - "Thinking"
+  - "Learning"
 description: " Những trải nghiệm chính là advisor của mình, dù quá trình đau khổ và mệt mỏi vì thử và sai liên tục, dù lựa chọn của mình khác với lời khuyên của những người thành công, mình vẫn tin vào bài học tự bản thân rút ra vì nó luôn là phù hợp nhất."
 socialImage: "./media/blog11.jpg"
 ---

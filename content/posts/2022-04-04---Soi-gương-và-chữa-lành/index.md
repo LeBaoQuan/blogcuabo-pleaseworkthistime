@@ -4,8 +4,8 @@ date: "2022-04-04T23:46:37.121Z"
 template: "post"
 draft: false
 slug: "/posts/soi-gương-và-chữa-lành"
-category: "Design Inspiration"
-tags:
+category: "Reflection"
+tags: 
   - "Healing"
   - "Reflection"
 description: "Có lẽ, mình sẽ quên đi mất cách yêu thương và thấu hiểu bản thân, điều mà mình luôn tự hào trong quá khứ, nếu như mình không vô tình tìm thấy chiếc gương xoa dịu trong một lần buồn bã bất kỳ trên hành trình làm người lớn."

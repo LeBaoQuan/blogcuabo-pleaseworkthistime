@@ -4,7 +4,7 @@ date: "2022-09-02T23:46:37.121Z"
 template: "post"
 draft: false
 slug: "/posts/bài-này-mình-viết-cho-bản-thân"
-category: "Bout"
+category: "For Myself"
 tags:
   - "Healing"
   - "Reflection"

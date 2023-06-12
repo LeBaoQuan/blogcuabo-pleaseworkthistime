@@ -7,6 +7,7 @@ slug: "/posts/mình-đa-nghi-hơn"
 category: "Thinking"
 tags:
   - "Reflection"
+  - "Learning"
 description: "Dù câu trả lời là có hay không, vui là được!"
 socialImage: "./media/blog3.jpg"
 ---

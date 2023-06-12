@@ -4,7 +4,7 @@ date: "2022-05-07T23:46:37.121Z"
 template: "post"
 draft: false
 slug: "/posts/một-trong-những-lần-đầu-đi-thi"
-category: "Bout"
+category: "Sharing"
 tags:
   - "Chuyện đi thi"
   - "Những lần đầu"
