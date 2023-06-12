@@ -4,26 +4,11 @@ template: "page"
 socialImage: "./book.jpg"
 ---
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/book.jpg)
+![](contacts.jpg)
+<div style="text-align: center; font-weight: italic; font-size: 16px">
+  Như dòng chảy của nước
+</div>
 
-# Sự tích ra đời của em nó
+<br>
 
-_Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi._
-
-## Header Level 2
-
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
-
-- **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.
-- Aliquam tincidunt mauris eu risus.
-- Vestibulum auctor dapibus neque.
-
-### Header Level 3
-
-Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec **consectetuer** ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.
-
-Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.
-
-#### Header Level 4
-
-Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est.
+Mình thích nói và mình làm tốt việc này. Nhu cầu chia sẻ, lắng nghe và bàn luận của mình đều được đáp ứng thông quá những cuộc trò chuyện thường ngày với người bạn thân của mình. Mình làm dụng việc nói và không cho khả năng viết của mình một cơ hội. Mình không thích viết và mình không hề làm tốt việc này. Tuy nhiên, mình hiểu rằng cần phải biết viết. Đó là lý do mình tạo ra blog này: Ép mình viết. Mình không tập trung vào hướng kể chuyện nói về quá trình mình đạt được một thành tựu nào đó, những người mình gặp hay những nơi mình đến, mình chia sẻ suy nghĩ và lập luận để chứng minh cho những suy nghĩ đó. Mình viết chưa hay và mọi người đón nhận chưa nhiều. Mình vẫn viết và luôn mong chờ ai đó phản bác hay đồng ý thông qua bình luận, nhắn tin nhưng chỉ có một vài người. Đó cũng là một niềm vui lớn. Mình không quên rằng, mình viết là vì bản thân mình!
