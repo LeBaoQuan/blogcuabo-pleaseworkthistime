@@ -10,7 +10,6 @@ vào Command Promt
 
 > gatsby develop
 
-
 vào Cursor
 - tạo folder mới blog posts trong ./content/post
 - tạo file index.md để viết blog
