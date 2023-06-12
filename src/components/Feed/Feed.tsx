@@ -10,6 +10,8 @@ type Props = {
   edges: Array<Edge>;
 };
 
+
+
 const Feed: React.FC<Props> = ({ edges }: Props) => (
   <div className={styles.feed}>
     {edges.map((edge) => (
