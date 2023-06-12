@@ -1,8 +1,8 @@
 ---
-title: "Markdown (MDX) Guide and Syntax"
+title: "Example blog format and syntax"
 date: "2023-05-24T16:30:32.169Z"
 template: "post"
-draft: false
+draft: true
 slug: "/posts/example"
 category: "Blog Format"
 tags:

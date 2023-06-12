@@ -11,14 +11,14 @@ const Author = () => {
   return (
     <div className={styles.author}>
       <p className={styles.bio}>
-        {author.bio}
+        
         <a
           className={styles.facebook}
           href={getContactHref("facebook", author.contacts.facebook)}
           rel="noopener noreferrer"
           target="_blank"
         >
-          Contact <strong>{author.name}</strong> on Facebook
+          Contact me on Facebook
         </a>
       </p>
     </div>

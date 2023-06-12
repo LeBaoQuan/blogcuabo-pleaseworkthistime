@@ -4,9 +4,10 @@ template: "page"
 socialImage: "./notebook.jpg"
 ---
 
-Hello bo yeu 
-
 ![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/notebook.jpg)
+
+Tự giới thiệu bản thân, cho cái hình đẹp đẹp vô :3 
+
 
 _Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi._
 
