@@ -1,5 +1,5 @@
 ---
-title: bài này viết ngắn ngắn
+title: Bài này viết ngắn ngắn
 date: "2023-05-17T23:46:37.121Z"
 template: "post"
 draft: false

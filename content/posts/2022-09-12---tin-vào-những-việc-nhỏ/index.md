@@ -1,5 +1,5 @@
 ---
-title: tin vào những việc nhỏ
+title: Tin vào những việc nhỏ
 date: "2022-12-09T23:46:37.121Z"
 template: "post"
 draft: false
